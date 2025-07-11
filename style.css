@@ -13,7 +13,7 @@
     
 }
 
-h3{
+.h3{
     color: #4E47FF;
     font-weight: 800;
     font-size: 46px;
@@ -41,9 +41,31 @@ nav{
     font-size: 35px;
     font-weight: bold;
     margin-top: 150px;
-    margin-bottom:250px ;
+    margin-bottom:100px ;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
     gap: 20px;
+}
+
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 100px;
+    padding: ;
+    gap: 30px;
+
+
+}
+img{
+    border-radius: 20px;
+}
+.para{
+    color: rgba(37, 36, 50, 0.5);
+    font-size: 24px;
+}
+.h2{
+    font-weight: bold;
+    font-size: 42px;
 }
