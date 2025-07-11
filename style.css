@@ -6,7 +6,12 @@
   font-style: normal;
 }
 
-/* header section */
+/* header section */ 
+
+.header{
+    background-image:url(Hero-bg.png) ;
+    
+}
 
 h3{
     color: #4E47FF;
@@ -32,7 +37,7 @@ nav{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    padding: 300px 267px 250;
+    padding: 0px 267px 130px;
     font-size: 35px;
     font-weight: bold;
     margin-top: 150px;
