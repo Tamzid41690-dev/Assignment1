@@ -52,7 +52,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0px 100px;
+    margin: 0px 200px;
     padding: ;
     gap: 30px;
 
@@ -68,4 +68,43 @@ img{
 .h2{
     font-weight: bold;
     font-size: 42px;
+}
+
+.p{
+    color: rgba(37, 36, 50, 0.5);
+    font-size: 20px;
+    padding-top: 0px;
+}
+
+.review{
+    padding-top: 50px;
+    padding-right: auto;
+    padding-left: auto;
+    padding-bottom: 50px;
+    background-color:rgba(78, 71, 255, 0.27);
+    margin: 200px;
+    border-radius: 20px;
+
+
+}
+
+
+.review-num{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    padding-bottom: 50px;
+
+}
+
+.h2-main1{
+    text-align: center;
+    font-weight:bold;
+    font-size: 38px;
+}
+.review-h1{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+
 }
