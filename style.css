@@ -168,3 +168,26 @@ textarea{
     width: 350px;
     margin-left: 5px;
 }
+
+footer{
+    background-color: #ffffff;
+    padding-top: 60px;
+    margin-bottom: 200px;
+}
+.logo-h1{
+     color: #4E47FF;
+    font-weight:bolder;
+    font-size: 95px;
+    text-align: center;
+}
+.footer-p{
+    text-align: center;
+     color: rgba(37, 36, 50, 0.5);
+}
+.last-textr-abba{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    color: rgba(37, 36, 50, 0.5);
+    padding-bottom: 100px;
+}
